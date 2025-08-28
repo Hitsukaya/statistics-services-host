@@ -113,5 +113,39 @@ Statistics Hitsukaya is a custom platform for monitoring web services and infras
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend (planned):** Laravel  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
+<<<<<<< HEAD
 - **Email Servers:** SMTP, IMAP, POP3  
 >>>>>>> 792fec0 (Create README.md)
+=======
+- **Email Servers:** SMTP, IMAP, POP3
+
+## Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/statistics-hitsukaya.git
+cd statistics-hitsukaya
+
+# Install PHP dependencies
+composer install
+
+# Install Node.js dependencies
+npm install
+
+# Compile frontend assets
+npm run dev
+
+# Copy .env example
+cp .env.example .env
+
+# Generate application key
+php artisan key:generate
+
+# Run database migrations (if needed)
+php artisan migrate
+
+# Serve the application
+php artisan serve
+>>>>>>> c74daf8 (Update README.md)
