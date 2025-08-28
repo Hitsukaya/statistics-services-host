@@ -67,7 +67,12 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 >>>>>>> cbf779c (Update README.md)
 # Statistics Hitsukaya
-[![Hitsukaya](https://img.shields.io/badge/Hitsukaya-red)](https://hitsukaya.com)
+[![Hitsukaya](https://img.shields.io/badge/Hitsukaya-red)](https://hitsukaya.com) 
+[![Status](https://img.shields.io/badge/Status-In%20Development-yellow)](https://statistics.hitsukaya.com) 
+[![Demo](https://img.shields.io/badge/Demo-Online-green)](https://statistics.hitsukaya.com)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
+
+
 **Status:** In Development  
 **Demo:** [https://statistics.hitsukaya.com](https://statistics.hitsukaya.com)
 
