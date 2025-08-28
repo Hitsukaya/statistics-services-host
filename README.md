@@ -125,7 +125,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/statistics-hitsukaya.git
+git clone https://github.com/Hitsukaya/statistics-services-host.git
 cd statistics-hitsukaya
 
 # Install PHP dependencies
