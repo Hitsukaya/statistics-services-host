@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,52 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+[![Hitsukaya](https://img.shields.io/badge/Hitsukaya-red)](https://hitsukaya.com)
+
+# Statistics Hitsukaya
+
+![Hitsukaya Logo](https://hitsukaya.com/assets/images/logo.png)
+
+**Status:** In Development  
+**Demo:** [https://statistics.hitsukaya.com](https://statistics.hitsukaya.com)
+
+---
+
+## Description
+
+Statistics Hitsukaya is a custom platform for monitoring web services and infrastructure, providing clear visualizations of system status and real-time indicators.
+
+---
+
+## Features
+
+- **Web Services & API:** Online/offline status with visual indicators (green = online, red = offline)  
+- **Databases:** MySQL, PostgreSQL, MongoDB – monitor uptime and response times  
+- **Email Servers:** SMTP, IMAP, POP3 – connectivity and functionality checks  
+- **Security:** Blocked IP list and SSL status  
+
+---
+
+## Current Status
+
+- No functional backend yet  
+- Demo shows the planned interface and features  
+
+---
+
+## Future Plans
+
+- Automated real-time data collection  
+- Notifications and alerts for critical events  
+- Expanded monitoring of additional servers and external APIs  
+
+---
+
+## Technologies
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (planned):** Laravel  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Email Servers:** SMTP, IMAP, POP3  
+>>>>>>> 792fec0 (Create README.md)
