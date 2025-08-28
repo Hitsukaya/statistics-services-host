@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -63,10 +64,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 [![Hitsukaya](https://img.shields.io/badge/Hitsukaya-red)](https://hitsukaya.com)
 
+=======
+>>>>>>> cbf779c (Update README.md)
 # Statistics Hitsukaya
-
-![Hitsukaya Logo](https://hitsukaya.com/assets/images/logo.png)
-
+[![Hitsukaya](https://img.shields.io/badge/Hitsukaya-red)](https://hitsukaya.com)
 **Status:** In Development  
 **Demo:** [https://statistics.hitsukaya.com](https://statistics.hitsukaya.com)
 
